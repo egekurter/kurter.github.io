@@ -86,6 +86,7 @@ header:
 0.  [Scale Dependent Distribution of Kinetic Energy from Surface Drifters in the Gulf of Mexico][6]  
     **Dhruv Balwada**, J.H. LaCasce, & K.G. Speer  
     *Geophysical Research Letters (2016)*  
+    [Supp Info.][6supp]  
 
 0.  [Horizontal Mixing in the Southern Ocean from Argo Float Trajectories][5]  
     Christopher Roach, **D. Balwada**, & K.G. Speer  
@@ -113,10 +114,15 @@ header:
   **Dhruv Balwada**, Scott Henderson, Alison R. Gray  
   *EarthCube Annual Meeting (2021)*
 
-### PhD Thesis  
+### Grey Literature  
+- [Machine learning for multiscale systems: From turbulence to climate predictions][17]  
+  **Dhruv Balwada** and Laure Zanna  
+  *SIAM News (March 2022)*  
+
 - [Circulation and Stirring by Ocean Turbulence]  
   **Dhruv Balwada**  
   *Florida State University (2016)*  
+
 
 
 [Circulation and Stirring by Ocean Turbulence]: /assets/documents/balwada_thesis.pdf
@@ -128,6 +134,7 @@ header:
 [4]: /assets/documents/Balwada_et_al2016a.pdf
 [5]: /assets/documents/Roach_et_al2016.pdf
 [6]: /assets/documents/Balwada_et_al2016b.pdf
+[6supp]: /assets/documents/Balwada_et_al2016b_supp_material.pdf
 [7]: /assets/documents/Roach_et_al2018.pdf
 [7repo]: https://github.com/croachutas/Isopycnal_Diffusivity
 [8]: /assets/documents/Balwada_et_al2018.pdf
@@ -146,4 +153,5 @@ header:
 [14]: /assets/documents/Klymak_et_al2021.pdf
 [15]: /assets/documents/Balwada_et_al2021b.pdf
 [16]: /assets/documents/Dove_et_al2021.pdf
+[17]: /assets/documents/Balwada&Zanna2022.pdf
 [mail]: mailto:dbalwada@ldeo.columbia.edu
