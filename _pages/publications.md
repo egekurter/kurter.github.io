@@ -23,7 +23,7 @@ header:
   Ryan Abernathey, Mu Xu, & **Dhruv Balwada**  
 
 ### Submitted  
-- [Direct observational evidence of an oceanic dual kinetic energy cascade and its seasonality][mail]  
+- [Direct observational evidence of an oceanic dual kinetic energy cascade and its seasonality](https://arxiv.org/pdf/2202.08637.pdf)  
   **Dhruv Balwada**, Jin-Han Xie, Raffaele Marino, & Fabio Feraco  
 
 - [Enhanced ventilation in the energetic regions of the Antarctic Circumpolar Current][mail]  
