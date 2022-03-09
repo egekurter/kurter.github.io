@@ -34,11 +34,11 @@ header:
   Takaya Uchida, Quentin Jamet, William Dewar, Julien Le Sommer, Thierry Penduff, & **Dhruv Balwada**  
   *Journal of Advances in Modeling Earth Systems*   
 
-- [Influence of surface water flows on phytoplankton distribution in a shallow estuary][mail]  
-  Natalie L. Geyer, **Dhruv Balwada**, Elizabeth Simons, Kevin Speer, & Markus Huettel  
-  *Estuarine, Coastal and Shelf Science*  
-
 ### Peer Reviewed Publications
+0.  [Influence of surface water flows on phytoplankton distribution in a shallow estuary][mail]  
+    Natalie L. Geyer, **Dhruv Balwada**, Elizabeth Simons, Kevin Speer, & Markus Huettel  
+    *Estuarine, Coastal and Shelf Science*  
+
 0.  [Observational evidence for ventilation hot spots in the Southern Ocean][16]  
     Lillian Dove, Andrew F. Thompson, **Dhruv Balwada**, & Alison R. Gray  
     *Journal of Geophysical Research: Oceans (2021)*  
