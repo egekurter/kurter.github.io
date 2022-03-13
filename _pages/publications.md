@@ -35,9 +35,9 @@ header:
   *Journal of Advances in Modeling Earth Systems*   
 
 ### Peer Reviewed Publications
-0.  [Influence of surface water flows on phytoplankton distribution in a shallow estuary][mail]  
+0.  [Influence of surface water flows on phytoplankton distribution in a shallow estuary][18]  
     Natalie L. Geyer, **Dhruv Balwada**, Elizabeth Simons, Kevin Speer, & Markus Huettel  
-    *Estuarine, Coastal and Shelf Science*  
+    *Estuarine, Coastal and Shelf Science (2022)*  
 
 0.  [Observational evidence for ventilation hot spots in the Southern Ocean][16]  
     Lillian Dove, Andrew F. Thompson, **Dhruv Balwada**, & Alison R. Gray  
@@ -154,4 +154,5 @@ header:
 [15]: /assets/documents/Balwada_et_al2021b.pdf
 [16]: /assets/documents/Dove_et_al2021.pdf
 [17]: /assets/documents/Balwada&Zanna2022.pdf
+[18]: /assets/documents/Geyer_etal2022.pdf
 [mail]: mailto:dbalwada@ldeo.columbia.edu
