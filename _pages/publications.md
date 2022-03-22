@@ -35,6 +35,10 @@ header:
   *Journal of Advances in Modeling Earth Systems*   
 
 ### Peer Reviewed Publications
+0.  [Diagnosing the thickness-weighted averaged eddy-mean flow interaction in an eddying North Atlantic ensemble](https://www.essoar.org/doi/10.1002/essoar.10504082.2)  
+    Takaya Uchida, Quentin Jamet, William Dewar, Julien Le Sommer, Thierry Penduff, & **Dhruv Balwada**  
+    *Journal of Advances in Modeling Earth Systems*   
+    
 0.  [Influence of surface water flows on phytoplankton distribution in a shallow estuary][18]  
     Natalie L. Geyer, **Dhruv Balwada**, Elizabeth Simons, Kevin Speer, & Markus Huettel  
     *Estuarine, Coastal and Shelf Science (2022)*  
