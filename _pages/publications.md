@@ -25,6 +25,7 @@ header:
 ### Submitted  
 - [Direct observational evidence of an oceanic dual kinetic energy cascade and its seasonality](https://arxiv.org/pdf/2202.08637.pdf)  
   **Dhruv Balwada**, Jin-Han Xie, Raffaele Marino, & Fabio Feraco  
+  *Science Advances*  
 
 - [Enhanced ventilation in the energetic regions of the Antarctic Circumpolar Current][mail]  
   Lilian Dove, **Dhruv Balwada**, Andrew Thompson, & Alison Gray  
