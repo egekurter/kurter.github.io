@@ -30,7 +30,7 @@ header:
 ### Peer Reviewed Publications
 0.  [Enhanced ventilation in the energetic regions of the Antarctic Circumpolar Current][19]  
     Lilian Dove, **Dhruv Balwada**, Andrew Thompson, & Alison Gray  
-    *Geophysical Research Letters*  
+    *Geophysical Research Letters (2022)*  
     [Supp Mat][19supp]
 
 0.  [Diagnosing the thickness-weighted averaged eddy-mean flow interaction in an eddying North Atlantic ensemble](https://www.essoar.org/doi/10.1002/essoar.10504082.2)  
