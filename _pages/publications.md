@@ -157,6 +157,6 @@ header:
 [16]: /assets/documents/Dove_et_al2021.pdf
 [17]: /assets/documents/Balwada&Zanna2022.pdf
 [18]: /assets/documents/Geyer_etal2022.pdf
-[19]: /assets/documents/Dove_etal2022.pdf
-[19supp]: /assets/documents/Dove_etal2022_supp_material.pdf
+[19]: /assets/documents/Dove_et_al2022.pdf
+[19supp]: /assets/documents/Dove_et_al2022_supp_material.pdf
 [mail]: mailto:dbalwada@ldeo.columbia.edu
