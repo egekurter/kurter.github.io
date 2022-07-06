@@ -27,8 +27,6 @@ header:
   **Dhruv Balwada**, Jin-Han Xie, Raffaele Marino, & Fabio Feraco  
   *Science Advances*  
 
-
-
 ### Peer Reviewed Publications
 0.  [Enhanced ventilation in the energetic regions of the Antarctic Circumpolar Current][19]  
     Lilian Dove, **Dhruv Balwada**, Andrew Thompson, & Alison Gray  
