@@ -27,11 +27,14 @@ header:
   **Dhruv Balwada**, Jin-Han Xie, Raffaele Marino, & Fabio Feraco  
   *Science Advances*  
 
-- [Enhanced ventilation in the energetic regions of the Antarctic Circumpolar Current][mail]  
-  Lilian Dove, **Dhruv Balwada**, Andrew Thompson, & Alison Gray  
-  *Geophysical Research Letters*
+
 
 ### Peer Reviewed Publications
+0.  [Enhanced ventilation in the energetic regions of the Antarctic Circumpolar Current][19]  
+    Lilian Dove, **Dhruv Balwada**, Andrew Thompson, & Alison Gray  
+    *Geophysical Research Letters*  
+    [Supp Mat][19supp]
+
 0.  [Diagnosing the thickness-weighted averaged eddy-mean flow interaction in an eddying North Atlantic ensemble](https://www.essoar.org/doi/10.1002/essoar.10504082.2)  
     Takaya Uchida, Quentin Jamet, William Dewar, Julien Le Sommer, Thierry Penduff, & **Dhruv Balwada**  
     *Journal of Advances in Modeling Earth Systems (2022)*   
@@ -156,4 +159,6 @@ header:
 [16]: /assets/documents/Dove_et_al2021.pdf
 [17]: /assets/documents/Balwada&Zanna2022.pdf
 [18]: /assets/documents/Geyer_etal2022.pdf
+[19]: /assets/documents/Dove_etal2022.pdf
+[19supp]: /assets/documents/Dove_etal2022_supp_material.pdf
 [mail]: mailto:dbalwada@ldeo.columbia.edu
