@@ -9,7 +9,7 @@ header:
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=e_C8ZrkAAAAJ&hl=en)
 
-### In Preparation  
+### In Preparation and Submitted
 - [Eddy transport tensor in an inhomogeneous ocean channel][mail]  
   **Dhruv Balwada**, Shafer Smith, Takaya Uchida, & Ryan Abernathey  
 
@@ -22,12 +22,12 @@ header:
 - [Data-driven estimation of eddy transfer coefficients in a primitive equation model][mail]  
   Ryan Abernathey, Mu Xu, & **Dhruv Balwada**  
 
-### Submitted  
-- [Direct observational evidence of an oceanic dual kinetic energy cascade and its seasonality](https://arxiv.org/pdf/2202.08637.pdf)  
-  **Dhruv Balwada**, Jin-Han Xie, Raffaele Marino, & Fabio Feraco  
-  *Science Advances*  
 
 ### Peer Reviewed Publications
+0.  [Direct observational evidence of an oceanic dual kinetic energy cascade and its seasonality](https://arxiv.org/pdf/2202.08637.pdf)  
+    **Dhruv Balwada**, Jin-Han Xie, Raffaele Marino, & Fabio Feraco  
+    *Science Advances (2022, in press)*  
+
 0.  [Enhanced ventilation in the energetic regions of the Antarctic Circumpolar Current][19]  
     Lilian Dove, **Dhruv Balwada**, Andrew Thompson, & Alison Gray  
     *Geophysical Research Letters (2022)*  
