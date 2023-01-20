@@ -9,24 +9,15 @@ header:
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=e_C8ZrkAAAAJ&hl=en)
 
-### In Preparation and Submitted
-- [Eddy transport tensor in an inhomogeneous ocean channel][mail]  
-  **Dhruv Balwada**, Shafer Smith, Takaya Uchida, & Ryan Abernathey  
-
-- [Eddy driven meridional transport across the Antarctic Circumpolar Current][mail]  
-  **Dhruv Balwada**, Loic Juillon, Kevin Speer, Raffaele Ferrari, & John Marshall  
-
-- [Tracer ventilation, stirring, and variability in the Antarctic Circumpolar Current near the Southwest India Ridge][mail]  
-  **Dhruv Balwada**, Alison Gray, Lilian Dove, & Andrew Thompson  
-
-- [Data-driven estimation of eddy transfer coefficients in a primitive equation model][mail]  
-  Ryan Abernathey, Mu Xu, & **Dhruv Balwada**  
-
 
 ### Peer Reviewed Publications
+0.  [Cautionary tales from the mesoscale eddy transport tensor](https://eartharxiv.org/repository/view/3616/)  
+    Takaya Uchida, **Dhruv Balwada**, Quentin Jamet, William K. Dewar, Bruno Deremble, Thierry Penduff, Julien Le Sommer  
+    *Ocean Modelling (2023, in press)*  
+
 0.  [Direct observational evidence of an oceanic dual kinetic energy cascade and its seasonality](https://arxiv.org/pdf/2202.08637.pdf)  
     **Dhruv Balwada**, Jin-Han Xie, Raffaele Marino, & Fabio Feraco  
-    *Science Advances (2022, in press)*  
+    *Science Advances (2022)*  
 
 0.  [Enhanced ventilation in the energetic regions of the Antarctic Circumpolar Current][19]  
     Lilian Dove, **Dhruv Balwada**, Andrew Thompson, & Alison Gray  
