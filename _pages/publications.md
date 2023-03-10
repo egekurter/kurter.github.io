@@ -10,7 +10,7 @@ header:
 [Google Scholar Profile](https://scholar.google.com/citations?user=e_C8ZrkAAAAJ&hl=en)
 
 ### Submitted/ In Review  
-0.  [Tracer stirring and variability in the Antarctic Circumpolar Current near the Southwest Indian Ridge](doi.org/10.22541/essoar.167839945.50522830/v1)  
+0.  [Tracer stirring and variability in the Antarctic Circumpolar Current near the Southwest Indian Ridge](https://doi.org/10.22541/essoar.167839945.50522830/v1)  
     **Dhruv Balwada**, Alison Gray, Lilian Dove, & Andrew Thompson  
     *JGR:Oceans*  
     [Github repo with data and code](https://github.com/dhruvbalwada/SWIR_ACC_glider_tracer_analysis)  
