@@ -9,11 +9,20 @@ header:
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=e_C8ZrkAAAAJ&hl=en)
 
+### Submitted/ In Review  
+0.  [Tracer stirring and variability in the Antarctic Circumpolar Current near the Southwest Indian Ridge](doi.org/10.22541/essoar.167839945.50522830/v1)  
+    **Dhruv Balwada**, Alison Gray, Lilian Dove, & Andrew Thompson  
+    *JGR:Oceans*  
+    [Github repo with data and code](https://github.com/dhruvbalwada/SWIR_ACC_glider_tracer_analysis)  
+
+0.  [Reconstruction of Surface Kinematics from Sea Surface Height Using Neural Networks][mail]  
+    Qiyu Xiao, **Dhruv Balwada**, C. Spencer Jones, Mario Herrero-Gonz ́alez, K. Shafer Smith, & Ryan Abernathey  
+    *JAMES*  
 
 ### Peer Reviewed Publications
 0.  [Cautionary tales from the mesoscale eddy transport tensor](https://eartharxiv.org/repository/view/3616/)  
     Takaya Uchida, **Dhruv Balwada**, Quentin Jamet, William K. Dewar, Bruno Deremble, Thierry Penduff, Julien Le Sommer  
-    *Ocean Modelling (2023, in press)*  
+    *Ocean Modelling (2023)*  
 
 0.  [Direct observational evidence of an oceanic dual kinetic energy cascade and its seasonality](https://arxiv.org/pdf/2202.08637.pdf)  
     **Dhruv Balwada**, Jin-Han Xie, Raffaele Marino, & Fabio Feraco  
