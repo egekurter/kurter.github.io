@@ -15,7 +15,7 @@ header:
     *JGR:Oceans*  
     [Github repo with data and code](https://github.com/dhruvbalwada/SWIR_ACC_glider_tracer_analysis)  
 
-0.  [Reconstruction of Surface Kinematics from Sea Surface Height Using Neural Networks][mail]  
+0.  [Reconstruction of Surface Kinematics from Sea Surface Height Using Neural Networks][20]  
     Qiyu Xiao, **Dhruv Balwada**, C. Spencer Jones, Mario Herrero-Gonz ́alez, K. Shafer Smith, & Ryan Abernathey  
     *JAMES*  
 
@@ -159,4 +159,5 @@ header:
 [18]: /assets/documents/Geyer_etal2022.pdf
 [19]: /assets/documents/Dove_et_al2022.pdf
 [19supp]: /assets/documents/Dove_et_al2022_supp_material.pdf
+[20]: /assets/documents/Xiao_et_al2023.pdf
 [mail]: mailto:dbalwada@ldeo.columbia.edu
