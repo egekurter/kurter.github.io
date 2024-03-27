@@ -10,16 +10,28 @@ header:
 [Google Scholar Profile](https://scholar.google.com/citations?user=e_C8ZrkAAAAJ&hl=en)
 
 ### Submitted/ In Review  
+0.  [Learning Machine Learning with Lorenz-96](https://essopenarchive.org/doi/pdf/10.22541/essoar.170365239.95851488)  
+    **Dhruv Balwada** & M2LInES team  
+    *Journal of Open Source Education*    
+
+0.  [A Data-Driven Approach for Parameterizing Submesoscale Vertical Buoyancy Fluxes in the Ocean Mixed Layer](https://arxiv.org/abs/2312.06972)  
+    Abigail Bodner, **Dhruv Balwada**, Laure Zanna  
+    *arXiv*  
+
+### Peer Reviewed Publications
+0.  [The multi-scale response of the eddy kinetic energy and transport to strengthened westerlies in an idealized Antarctic Circumpolar Current][21]  
+    Ran Liu, Guihua Wang, **Dhruv Balwada**  
+    *Geophysical Research Letters (2024)*  
+
 0.  [Tracer stirring and variability in the Antarctic Circumpolar Current near the Southwest Indian Ridge](https://doi.org/10.22541/essoar.167839945.50522830/v1)  
     **Dhruv Balwada**, Alison Gray, Lilian Dove, & Andrew Thompson  
-    *JGR:Oceans*  
+    *Journal of Geophysical Research: Oceans (2024)*  
     [Github repo with data and code](https://github.com/dhruvbalwada/SWIR_ACC_glider_tracer_analysis)  
 
 0.  [Reconstruction of Surface Kinematics from Sea Surface Height Using Neural Networks][20]  
     Qiyu Xiao, **Dhruv Balwada**, C. Spencer Jones, Mario Herrero-Gonz ́alez, K. Shafer Smith, & Ryan Abernathey  
-    *JAMES*  
+    *Journal of Advances in Modeling Earth Systems (2023)*  
 
-### Peer Reviewed Publications
 0.  [Cautionary tales from the mesoscale eddy transport tensor](https://eartharxiv.org/repository/view/3616/)  
     Takaya Uchida, **Dhruv Balwada**, Quentin Jamet, William K. Dewar, Bruno Deremble, Thierry Penduff, Julien Le Sommer  
     *Ocean Modelling (2023)*  
@@ -160,4 +172,5 @@ header:
 [19]: /assets/documents/Dove_et_al2022.pdf
 [19supp]: /assets/documents/Dove_et_al2022_supp_material.pdf
 [20]: /assets/documents/Xiao_et_al2023.pdf
+[21]: /assets/documents/Liu_et_al2024.pdf
 [mail]: mailto:dbalwada@ldeo.columbia.edu
