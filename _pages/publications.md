@@ -13,6 +13,7 @@ header:
 0.  [Learning Machine Learning with Lorenz-96](https://essopenarchive.org/doi/pdf/10.22541/essoar.170365239.95851488)  
     **Dhruv Balwada** & M2LInES team  
     *Journal of Open Source Education*    
+    [Jupyter Book](https://m2lines.github.io/L96_demo/intro.html)  
 
 0.  [A Data-Driven Approach for Parameterizing Submesoscale Vertical Buoyancy Fluxes in the Ocean Mixed Layer](https://arxiv.org/abs/2312.06972)  
     Abigail Bodner, **Dhruv Balwada**, Laure Zanna  
